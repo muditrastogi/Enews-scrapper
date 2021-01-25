@@ -6,14 +6,14 @@ Scrapy open source and collaborative framework for extracting the data you need 
 In a fast, simple, yet extensible way.
 To install scrapy create a virtualenv and use pip
         
-        `pip install scrapy`
+        pip install scrapy
         
 # Steps to make your first web crawler and scrapper
 
  1. Create a new scrapy project. Run `scrapy startproject news_scrapper` in the terminal.
         This will create news_scrapper directory
-                `news_scrapper/
-
+                
+                news_scrapper/
                         scrapy.cfg
                         news_scrapper/
                                 __init__.py
