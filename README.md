@@ -12,11 +12,11 @@ To install scrapy create a virtualenv and use pip
 
  1. Create a new scrapy project. Run `scrapy startproject news_scrapper` in the terminal.
         This will create news_scrapper directory
-                `news_scrapper/`
-                        `scrapy.cfg`
-                        `news_scrapper/`
-                                `__init__.py`
+                `news_scrapper/
 
+                        scrapy.cfg
+                        news_scrapper/
+                                __init__.py
                                 items.py          
                                 middlewares.py    
                                 pipelines.py      
